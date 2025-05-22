@@ -5,7 +5,6 @@
 Me chamo Nicole, tenho 17 anos e sou natural de São Paulo. Estou no 3º ano concluindo o ensino medio na Escola João Envangelista Costa.Gosto de tecnlogia mas ainda estou aprendendo alhumas coisas sobre. 
 
 <p align="left">
-    
     </a> 
     <a href="https://github.com/Nicole?tab=repositories&sort=stargazers">
         <img 
